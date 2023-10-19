@@ -1,0 +1,6 @@
+This mod adds some more functionality to the Staff of Regrowth, making it able to place grass of almost any type, such as mushroom grass, corrupt/crimson grass, jungle grass, and ash grass.
+To place corrupt/crimson/hallowed grass, right click on soil (or mud if in glowing mushroom biome). You must already be in that biome to place the grass of the biome type.
+Left clicking mud in the jungle will place jungle grass, and left clicking ash will place ash grass in hell.
+
+Created by request from Terraman in the TML Discord.
+Mod icon border made by otterly
